@@ -25,6 +25,7 @@ def mostrar_tareas(tareas):
 
 def main():
     tareas = []
+    tareasd = []
     while True:
         mostrar_menu()
         opcion = input("Seleccione una opción: ")
